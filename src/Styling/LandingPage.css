@@ -1,0 +1,13 @@
+.background {
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-white {
+    background-color: white;
+    font-family: 'Arial';
+}
+
+.bg-grey-white {
+    background-color: #F1F3FF;
+}

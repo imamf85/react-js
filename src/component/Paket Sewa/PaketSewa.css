@@ -1,0 +1,16 @@
+.grid-sewa {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 32px;
+}
+
+.grid-sewa > div {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.grid-sewa img {
+    padding: 28px 67px 52px;
+    width: 350px;
+}
